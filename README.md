@@ -4,6 +4,9 @@
 
 This repository hosts the **Python implementation** of ProAc: a visual, multi-metric academic profile designed to support **time-saving**, **objective**, and **inclusive academic evaluation**. ProAc helps highlight diverse talents beyond traditional evaluation metrics. Learn more at [www.fabiocrameri.ch/proac](https://www.fabiocrameri.ch/proac) :contentReference[oaicite:0]{index=0}.
 
+To actually create your personal ProAc profile, simply go to the ProAc online toolbox at proac.pythonanywhere.com. Upload your CSV, enter your name, choose your output format, and you'll get the visual profile instantly. This repository just hosts the underlying code for development reasons.
+
+
 ---
 
 ##  Why ProAc?
@@ -48,3 +51,11 @@ Optional extras (helpful but not mandatory): `Tag`, `Title`, `Publisher`, `Full 
    ```bash
    git clone https://github.com/Crameri/ProAc-Python.git
    cd ProAc-Python
+
+
+##  References
+
+- Crameri, F. (2023). Multi-metric academic profiling with ProAc (1.0.0). Zenodo.
+- ProAc user guide and templates: https://www.fabiocrameri.ch/proac
+
+
