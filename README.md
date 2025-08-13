@@ -55,7 +55,7 @@ Optional extras (helpful but not mandatory): `Tag`, `Title`, `Publisher`, `Full 
 
 ##  References
 
-- Crameri, F. (2023). Multi-metric academic profiling with ProAc (1.0.0). Zenodo.
-- ProAc user guide and templates: https://www.fabiocrameri.ch/proac
+- Crameri, F. (2023). Multi-metric academic profiling with ProAc (1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.4899015](https://doi.org/10.5281/zenodo.4899015)
+- ProAc user guide and templates: [www.fabiocrameri.ch/proac](https://www.fabiocrameri.ch/proac)
 
 
